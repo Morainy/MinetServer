@@ -4,3 +4,6 @@ C:\Users\BrianS-PC\Desktop\Sever\TestMinet\bin\Release\TestMinet.pdb
 C:\Users\BrianS-PC\Desktop\Sever\TestMinet\obj\Release\Server.csprojResolveAssemblyReference.cache
 C:\Users\BrianS-PC\Desktop\Sever\TestMinet\obj\Release\TestMinet.exe
 C:\Users\BrianS-PC\Desktop\Sever\TestMinet\obj\Release\TestMinet.pdb
+G:\Sever\TestMinet\bin\Release\TestMinet.exe.config
+G:\Sever\TestMinet\obj\Release\TestMinet.exe
+G:\Sever\TestMinet\obj\Release\TestMinet.pdb
