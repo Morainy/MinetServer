@@ -1,0 +1,11 @@
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\bin\Release\TestMinet.exe.config
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\bin\Release\TestMinet.exe
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\bin\Release\TestMinet.pdb
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\obj\Release\TestMinet.exe
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\obj\Release\TestMinet.pdb
+C:\Users\BrianS-PC\Desktop\Sever2\TestMinet\bin\Release\TestMinet.exe.config
+C:\Users\BrianS-PC\Desktop\Sever2\TestMinet\bin\Release\TestMinet.exe
+C:\Users\BrianS-PC\Desktop\Sever2\TestMinet\bin\Release\TestMinet.pdb
+C:\Users\BrianS-PC\Desktop\Sever2\TestMinet\obj\Release\TestMinet.csprojResolveAssemblyReference.cache
+C:\Users\BrianS-PC\Desktop\Sever2\TestMinet\obj\Release\TestMinet.exe
+C:\Users\BrianS-PC\Desktop\Sever2\TestMinet\obj\Release\TestMinet.pdb

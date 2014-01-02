@@ -1,0 +1,6 @@
+C:\Users\BrianS-PC\Desktop\Sever\TestMinet\bin\Debug\TestMinet.exe.config
+C:\Users\BrianS-PC\Desktop\Sever\TestMinet\obj\Debug\TestMinet.exe
+C:\Users\BrianS-PC\Desktop\Sever\TestMinet\obj\Debug\TestMinet.pdb
+C:\Users\BrianS-PC\Desktop\Sever\TestMinet\bin\Debug\TestMinet.exe
+C:\Users\BrianS-PC\Desktop\Sever\TestMinet\bin\Debug\TestMinet.pdb
+C:\Users\BrianS-PC\Desktop\Sever\TestMinet\obj\Debug\Server.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\BrianS-PC\documents\visual studio 2013\Projects\TestMinet\TestMinet\bin\Debug\TestMinet.exe.config
+C:\Users\BrianS-PC\documents\visual studio 2013\Projects\TestMinet\TestMinet\bin\Debug\TestMinet.exe
+C:\Users\BrianS-PC\documents\visual studio 2013\Projects\TestMinet\TestMinet\bin\Debug\TestMinet.pdb
+C:\Users\BrianS-PC\documents\visual studio 2013\Projects\TestMinet\TestMinet\obj\Debug\TestMinet.exe
+C:\Users\BrianS-PC\documents\visual studio 2013\Projects\TestMinet\TestMinet\obj\Debug\TestMinet.pdb
+C:\Users\BrianS-PC\documents\visual studio 2013\Projects\TestMinet\TestMinet\obj\Debug\TestMinet.csprojResolveAssemblyReference.cache
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\bin\Debug\TestMinet.exe.config
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\bin\Debug\TestMinet.exe
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\bin\Debug\TestMinet.pdb
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\obj\Debug\TestMinet.exe
+C:\Users\BrianS-PC\Desktop\TestMinet\TestMinet\obj\Debug\TestMinet.pdb
